@@ -1,6 +1,6 @@
 # 🧠 Machine Learning Handwritten Notes
 
-Welcome to **Machine-Learning-handwritten-notes** — a concise, human-friendly collection of handwritten notes covering the fundamentals and advanced concepts of Machine Learning. These notes are designed for students, self-learners, and practitioners who prefer visual and intuitive understanding over lengthy text.
+Welcome to **Machine-Learning-handwritten-notes** — a concise, human-friendly collection of handwritten notes covering the fundamentals and advanced concepts of Machine Learning. These notes are designed for students, self-learners, and practitioners who prefer visual and intuitive understanding over lengthy texts.
 
 ---
 
