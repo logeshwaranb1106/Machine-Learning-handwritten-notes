@@ -1,0 +1,9 @@
+Feature,Cohere Embeddings,OpenAI Embeddings (text-embedding-3-large),SentenceTransformers (SBERT),Google Universal Sentence Encoder (USE)
+Performance (Semantic Quality),Outstanding – Highly accurate semantic understanding,"Excellent, widely used","Very good, efficient for small setups","Good, slightly outdated"
+Multilingual Support,Excellent,Strong,Limited in older versions,Moderate
+Ease of Integration,"Simple API, supports multiple SDKs",Easy via OpenAI API,Requires model setup and hosting,Needs TensorFlow environment
+Speed and Efficiency,Fast and lightweight,Very fast,Moderate (depends on model size),Moderate
+Cost,Affordable API pricing,Slightly higher,Free (open-source),Free (open-source)
+Use Case Fit (for RAG),"Outstanding – balanced quality, speed, and multilingual ability",Excellent for general-purpose RAG,Good for small/local RAG,Moderate
+Integration with Vector Databases,"Seamless (Chroma, Pinecone, etc.)",Broadly supported,Requires manual linking,Manual setup
+Overall Rating,Outstanding,Excellent,Good,Moderate
